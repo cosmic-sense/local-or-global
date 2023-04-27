@@ -1,0 +1,9 @@
+name: local-or-global
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - pandas
+  - matplotlib
+  - bokeh
