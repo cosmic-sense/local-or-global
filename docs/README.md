@@ -9,7 +9,7 @@ used to estimate a local value of N0.
 
 The interactive tool should support you to decide which calibration strategy is preferable for your CRNS location.
 
-<iframe src="interactive.html"
+<iframe src="/interactive.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
     height="500"
