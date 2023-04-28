@@ -1,5 +1,5 @@
 ---
-title : Uncertainty of CRNS-based soil moisture estimates
+title: Uncertainty of CRNS-based soil moisture estimates
 ---
 
 Use this page to assess uncertainty of CRNS-based estimates of soil water content (SWC).
