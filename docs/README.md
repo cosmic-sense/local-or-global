@@ -1,4 +1,6 @@
-Use the following tool to assess uncertainty of CRNS-based estimates of soill water content (SWC).
+# Uncertainty of CRNS-based soil moisture estimates
+
+Use the following tool to assess uncertainty of CRNS-based estimates of soil water content (SWC).
 The uncertainty is estimated for two calibration scenarios: 
 
 - **local calibration** (blue line) is the standard approach for which SWC in the sensor footprint is estimated from soil sampling then
