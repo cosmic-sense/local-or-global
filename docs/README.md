@@ -1,5 +1,3 @@
-# Uncertainty of CRNS calibration
-
 Use the following tool to assess uncertainty of CRNS-based estimates of soill water content (SWC).
 The uncertainty is estimated for two calibration scenarios: 
 
