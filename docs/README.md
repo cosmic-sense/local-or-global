@@ -1,9 +1,4 @@
----
-header:
-  overlay_image: https://raw.githubusercontent.com/cosmic-sense/local-or-global/main/docs/banner.png
-  overlay_filter: 0.5
-  caption: "Photo credit: [**Cosmic Sense**](https://www.uni-potsdam.de/de/cosmicsense/)"
----
+![](https://raw.githubusercontent.com/cosmic-sense/local-or-global/main/docs/banner.png)
 
 Use this page to assess uncertainty of CRNS-based estimates of soil water content (SWC).
 The uncertainty is estimated for two calibration scenarios: 
