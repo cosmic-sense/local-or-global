@@ -1,4 +1,3 @@
-title: Uncertainty of CRNS-based soil moisture estimates  
 remote_theme: mmistakes/minimal-mistakes@4.24.0
 plugins:
 - jekyll-remote-theme
