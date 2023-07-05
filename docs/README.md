@@ -17,7 +17,7 @@ neutron intensity and soil moisture, so that operating the slider will shift
 the corresponding lines. 
 
 <iframe src="https://cosmic-sense.github.io/local-or-global/interactive.html"
-    width="90%"
+    width="110%"
     height="500"
     scrolling="no"
     seamless="seamless"
