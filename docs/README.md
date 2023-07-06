@@ -1,5 +1,6 @@
 ---
 layout: base
+permalink: /
 ---
 
 ![](https://raw.githubusercontent.com/cosmic-sense/local-or-global/main/docs/banner.png)
