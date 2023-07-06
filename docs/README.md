@@ -1,3 +1,7 @@
+---
+layout: base
+---
+
 ![](https://raw.githubusercontent.com/cosmic-sense/local-or-global/main/docs/banner.png)
 
 Use this page to assess uncertainty of CRNS-based estimates of soil water content (SWC).
