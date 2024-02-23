@@ -8,7 +8,7 @@ used to estimate a local value of N<sub>0</sub>.
 - **general (or global) calibration** is based on the estimation of a single value of N<sub>0</sub> from a large set of CRNS sensors across Europe.
 
 This interactive tool should support you to decide which calibration strategy is preferable for your CRNS location. 
-Find a detailed documentation of both calibration strategies and the corresponding error propagation in this [discussion paper](https://add.ref.to.preprint).
+Find a detailed documentation of both calibration strategies and the corresponding error propagation in this [discussion paper](https://doi.org/10.5194/hess-2023-169).
 
 The vertical grey lines highlight the scaled neutron intensities which correspond to
 specific values of the volumetric SWC (0.1, 0.2, 0.3, and 0.4 m³/m³). Beware that
@@ -24,12 +24,11 @@ the corresponding lines.
     frameborder="0">
 </iframe>
 
-**Cite as:** Heistermann, M., T. Francke, M. Schrön, S. E. Oswald: Technical Note: revisiting the general calibration of cosmic-ray
-neutron sensors to estimate soil water content [preprint]. Hydrology and Earth System Science Discussions, https://doi.org/10.5194/hess-xx-xxxx-2023.
+**Cite as:** Heistermann, M., T. Francke, M. Schrön, S. E. Oswald: Technical Note: revisiting the general calibration of cosmic-ray neutron sensors to estimate soil water content [preprint]. Hydrology and Earth System Science Discussions, https://doi.org/10.5194/hess-2023-169.
 
 ## Some notes and background
 
-As pointed out above, the [above paper](https://doi.org/10.5194/hess-xx-xxxx-2023) provides 
+As pointed out above, the [above paper](https://doi.org/10.5194/hess-2023-169) provides 
 comprehensive background to understand the above figure. Yet, some more details and thoughts are given below:
 
 - The error propagation results that are shown here always assume an integration interval of 24 h. In other words, they are valid for daily soil moisture estimates. Depending on sensor sensitivity, the error will increase with shorter integration intervals and decrease with longer intervals. In the future, we may add an additional slider to represent the effect of different integration intervals.

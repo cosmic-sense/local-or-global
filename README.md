@@ -3,7 +3,7 @@
 This repository provides the code to reproduce the figures shown in the following preprint:
 
 Heistermann, M., T. Francke, M. Schrön, S. E. Oswald: Technical Note: revisiting the general calibration of cosmic-ray
-neutron sensors to estimate soil water content [preprint]. Hydrology and Earth System Science Discussions, https://doi.org/10.5194/hess-xx-xxxx-2023.
+neutron sensors to estimate soil water content [preprint]. Hydrology and Earth System Science Discussions, https://doi.org/10.5194/hess-2023-169.
 
 It also contains the Python and JavaScript code to produce the interactive tool
 available via http://cosmic-sense.github.io/local-or-global.
